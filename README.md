@@ -1,0 +1,2 @@
+# 1D-Signal-Extraction-and-Analysis-from-Images---Exploring-Frequency-Components-Using-Python
+ This project extracts 1D signals from images, such as rows or columns, and analyzes them using signal processing techniques in Python. It applies Fourier Transform to explore frequency components, highlighting periodicities and characteristics of the signals, bridging image data with traditional 1D analysis.
